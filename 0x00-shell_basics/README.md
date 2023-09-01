@@ -13,3 +13,4 @@
 11. 10-back - Script to change dir. to the previous one
 12. 11-lists - List all files even the hidden one in long format print current dir. and /boot dir.
 13. 12-file_type - Prints file type
+14. 13-symbolic_link - Create a symbolic link to /bin/ls named '__ls___'
