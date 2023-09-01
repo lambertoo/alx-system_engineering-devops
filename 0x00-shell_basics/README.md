@@ -14,3 +14,4 @@
 12. 11-lists - List all files even the hidden one in long format print current dir. and /boot dir.
 13. 12-file_type - Prints file type
 14. 13-symbolic_link - Create a symbolic link to /bin/ls named '__ls___'
+15. 14-copy_html - Copy all the HTML files from current to previous only if they didn't exist
