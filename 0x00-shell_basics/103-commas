@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -fp | tr '\n' ', ' | head -c -2 | sort
+ls -xamp #ls -fp | tr '\n' ', ' | head -c -2 | sort
